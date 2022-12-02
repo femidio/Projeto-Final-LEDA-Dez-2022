@@ -34,6 +34,7 @@ Em seguida, implemente métodos para:
 - Exibir os elementos presentes na pilha
 - Empilhar (inserir) um novo elemento na pilha
 - Desempilhar (retirar) um elemento da pilha
+- 
 
 https://replit.com/join/cdpcuchkrm-franciscoemidio 
 
@@ -63,15 +64,21 @@ Em seguida, implemente métodos para:
 - Exibir os elementos presentes na fila
 - Inserir um elemento na fila
 - Retirar um elemento da fila
-
+- 
 https://replit.com/join/srnyrwyuvp-franciscoemidio 
 
 3)	(valor 1,0) Escreva um programa que crie duas pilhas sequenciais numéricas ordenadas crescentemente a partir do topo. Transfira os elementos dessas pilhas para uma terceira pilha, inicialmente vazia, de modo que ela fique ordenada decrescentemente com o maior valor no topo.
-https://replit.com/join/mgikbvaorw-franciscoemidio 
+
+https://replit.com/join/mgikbvaorw-franciscoemidio
+
 4)	(valor 1,0) Escreva uma função que receba três filas, duas já preenchidas em ordem crescente e preencha a última com os valores das duas primeiras em ordem crescente.
+
 https://replit.com/join/obyshkesuq-franciscoemidio 
+
 5)	(valor 1,0) Escreva um programa que cadastre em uma pilha vários números. A entrada deles será finalizada com a digitação de um número menor ou igual a 0 (zero). Posteriormente, o programa deve gerar duas filas, a primeira com números pares e a segunda com os números ímpares. A saída do programa deve apresentar a pilha digitada e as filas geradas. Caso alguma das filas seja vazia, deve-se mostrar uma mensagem.
+
 https://replit.com/join/akwggwsdxd-franciscoemidio 
+
 6)	(valor 4,0) Escolha um dos projetos abaixo e realize o desenvolvimento da solução:
 
 
@@ -84,6 +91,7 @@ d)	Informe qual vinho deve ser aberto em uma ocasião especial;
 e)	Relacione as cinco aquisições mais antigas;
 f)	Relacione as cinco aquisições mais recentes.
 As informações básicas que o registro de vinhos deve conter são: nome do produto, país de origem, tipo de uva e safra.
+
 https://replit.com/join/adxymmaljo-franciscoemidio 
 
 Projeto 02: Agência Bancária
